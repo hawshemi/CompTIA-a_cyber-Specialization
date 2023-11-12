@@ -7,7 +7,7 @@
 
 ### 1. [Computer Security Support Fundamentals](https://www.coursera.org/learn/comptia-computer-security-support-fundamentals?specialization=comptia-aplus-cyber)
 
-####    **Certificate:**
+####    **Certificate:** _https://www.coursera.org/account/accomplishments/verify/JPNL4BRAZZGY_
 #
 
 ### 2. [Network Security Support Fundamentals](https://www.coursera.org/learn/comptia-network-security-support-fundamentals?specialization=comptia-aplus-cyber)
